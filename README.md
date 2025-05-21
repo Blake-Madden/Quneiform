@@ -1,3 +1,5 @@
+NOTE: This project has migrated to the Eclipse Foundation. Please visit us at [https://github.com/eclipse-quneiform/quneiform.git](https://github.com/eclipse-quneiform/quneiform.git).
+
 <img src="app-logo.svg" width="150" />
 
 Quneiform
